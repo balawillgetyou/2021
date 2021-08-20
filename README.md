@@ -11,5 +11,5 @@
 
 [White paper published by Cognizant: Optimizing IT Operations with Natural Language Processing](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)
 
-[Award wiining paper at an AICTE sponsored conference: Extracting information for failure prediction from intermittent data](https://github.com/balawillgetyou/dy/blob/master/FailurePredictionSMART.pdf)
+[Award winning paper at an AICTE sponsored conference: Extracting information for failure prediction from intermittent data](https://github.com/balawillgetyou/dy/blob/master/FailurePredictionSMART.pdf)
 
