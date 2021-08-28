@@ -11,3 +11,5 @@
 
 [Award winning paper at an AICTE sponsored conference, Extracting information for failure prediction from intermittent data](https://github.com/balawillgetyou/dy/blob/master/FailurePredictionSMART.pdf)
 
+<a href="https://drive.google.com/uc?export=view&id=1cR6c5QNKiSMwxmXwUmyfpXBE6ryvhWmB"><img src="https://drive.google.com/uc?export=view&id=1cR6c5QNKiSMwxmXwUmyfpXBE6ryvhWmB" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
