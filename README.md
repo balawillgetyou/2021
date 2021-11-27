@@ -2,7 +2,9 @@
 
 <ul><li>Data Science projects since 2014: Pharma, Utility, Predictive Maintenance, Services</li><li>10 years US onsite: business process, ERP/BPM functional, management roles. BFSI, Manufacturing</li></ul>  
   
-***Data science project samples***
+[***Data science project 1 sliders***](https://github.com/balawillgetyou/2021/blob/main/BalaKesavan.pdf)
+
+***Data science project selected code samples***
 |  | Tabular data | Text |
 | :------------ | :------------ | :------------ |
 | Machine Learning | <ul><li> [Reducing call center load (ARIMA)](https://github.com/balawillgetyou/2021/blob/main/timeSeriesAnalysisRestaurantData.ipynb) </li><li> Failure prediction (survival)</li><li> Optimising project staffing (RF) </li></ul> | <ul><li> Measuring project health (polarity & valence) </li><li> Azure helpdesk chatbot (cloud) </li></ul> |
