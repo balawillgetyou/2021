@@ -14,5 +14,7 @@
 
 [Award winning paper at an AICTE sponsored conference, Extracting information for failure prediction from intermittent data](https://github.com/balawillgetyou/dy/blob/master/FailurePredictionSMART.pdf)
 
+[Securing edge devices using Auto Encoder Anomaly Detection](https://github.com/balawillgetyou/dy/blob/f50f006bf8ed642c6c79800ddd00006ca4315ee0/AnomalyDetectionEdgeDevices20211120.pdf)
+
 <a href="https://drive.google.com/uc?export=view&id=1cR6c5QNKiSMwxmXwUmyfpXBE6ryvhWmB"><img src="https://drive.google.com/uc?export=view&id=1cR6c5QNKiSMwxmXwUmyfpXBE6ryvhWmB" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
