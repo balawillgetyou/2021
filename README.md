@@ -1,6 +1,6 @@
 ***Bala Kesavan +91.98408.50411 scmguru@gmail.com***
 
-<ul><li>Data Science projects since 2014: Pharma, Utility, Predictive Maintenance, Services</li><li>10 years US onsite: business process, ERP/BPM functional, management roles. BFSI, Manufacturing</li></ul>  
+<ul><li>Data Science projects since 2014: Pharma, Utility, Manufacturing, BFSI, Consulting Services</li><li>10 years US onsite experience</li></ul>  
   
 [***Data science project 1 sliders***](https://github.com/balawillgetyou/2021/blob/main/BalaKesavan.pdf)
 
