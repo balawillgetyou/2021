@@ -2,7 +2,7 @@
 
 <ul><li>Data Science projects since 2014: Pharma, Utility, Manufacturing, BFSI, Consulting Services</li><li>10 years US onsite experience</li></ul>  
   
-***Data science projects - selected code samples***  
+***Data science projects - curated project code***  
 
 [Regression - statistics interpretation, feature engineering, hyper parameter optimization, explanability](https://github.com/balawillgetyou/2021/blob/main/carPrices.ipynb)  
 
