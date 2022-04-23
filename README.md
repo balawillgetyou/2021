@@ -5,11 +5,14 @@
 [***Data science project 1 sliders***](https://github.com/balawillgetyou/2021/blob/main/BalaKesavan.pdf)
 
 ***Data science project selected code samples***
-|  | Tabular data | Text |
-| :------------ | :------------ | :------------ |
-| Machine Learning | <ul><li> [Reducing call center load (ARIMA)](https://github.com/balawillgetyou/2021/blob/main/timeSeriesAnalysisRestaurantData.ipynb) </li><li> Failure prediction (survival)</li><li> Optimising project staffing (RF) </li></ul> | <ul><li> Measuring project health (polarity & valence) </li><li> Azure helpdesk chatbot (cloud) </li></ul> |
-| Deep Learning | <ul><li> [Securing edge devices (T-CNN Auto Encoder)](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb)</ul> | <ul><li> FLR improvement helpdesk tickets (TFHub, DBSCAN) </li><li> Asset reuse (Word2Vec) </li><li> [Preventing revenue leakage (LSTM & BERT)](https://github.com/balawillgetyou/2021/blob/main/LSTMGloVeTextClassifier.ipynb) </li> </li></ul> |  
-  
+[Regression - statistics interpretation, feature engineering, hyper parameter optimization, explanability](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
+
+[Classification - T CNN (temporal convolutional neural network) auto encoder](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
+
+[Time series - statistics interpretation, exogenous variables](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
+
+[Text classification - language model, target task tuning, learning rate optimization](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
+
 ***Data science papers published***
 
 [White paper published by Cognizant, Optimizing IT Operations with Natural Language Processing](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
@@ -18,5 +21,4 @@
 
 [Securing edge devices using Auto Encoder Anomaly Detection](https://github.com/balawillgetyou/dy/blob/f50f006bf8ed642c6c79800ddd00006ca4315ee0/AnomalyDetectionEdgeDevices20211120.pdf)
 
-<a href="https://drive.google.com/uc?export=view&id=1cR6c5QNKiSMwxmXwUmyfpXBE6ryvhWmB"><img src="https://drive.google.com/uc?export=view&id=1cR6c5QNKiSMwxmXwUmyfpXBE6ryvhWmB" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
