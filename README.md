@@ -4,13 +4,13 @@
   
 ***Data science projects - selected code samples***  
 
-[Regression - statistics interpretation, feature engineering, hyper parameter optimization, explanability](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
+[Regression - statistics interpretation, feature engineering, hyper parameter optimization, explanability](https://github.com/balawillgetyou/2021/blob/main/carPrices.ipynb)  
 
-[Classification - T CNN (temporal convolutional neural network) auto encoder](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
+[Classification - T CNN (temporal convolutional neural network) auto encoder](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb)  
 
-[Time series - statistics interpretation, exogenous variables](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
+[Time series - statistics interpretation, exogenous variables](https://github.com/balawillgetyou/2021/blob/main/timeSeriesAnalysisRestaurantData.ipynb)  
 
-[Text classification - language model, target task tuning, learning rate optimization](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
+[Text classification - language model, target task tuning, learning rate optimization](https://github.com/balawillgetyou/2021/blob/main/FastAiPyTorchULMFiTTextClassifierWhoseLine_wStopWordsRemoval_20200701.ipynb)  
 
 ***Data science papers published***
 
