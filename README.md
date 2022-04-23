@@ -4,7 +4,8 @@
   
 [***Data science project 1 sliders***](https://github.com/balawillgetyou/2021/blob/main/BalaKesavan.pdf)
 
-***Data science project selected code samples***
+***Data science project selected code samples***  
+
 [Regression - statistics interpretation, feature engineering, hyper parameter optimization, explanability](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
 
 [Classification - T CNN (temporal convolutional neural network) auto encoder](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
