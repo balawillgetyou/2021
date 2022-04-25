@@ -1,6 +1,6 @@
 ***Bala Kesavan +91.98408.50411 scmguru@gmail.com***
 
-<ul><li>Data Science projects since 2014</li><li>10 years US onsite experience</li></ul><li>BFSI, Pharma, Manufacturing</li>  
+<ul><li>Data Science projects since 2014</li><li>10 years US onsite experience</li><li>BFSI, Pharma, Manufacturing</li>  
   
 ***Data science projects - curated project code***  
 
