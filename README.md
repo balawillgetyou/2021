@@ -3,14 +3,14 @@
 <ul><li>Data Science projects since 2014</li><li>10 years US onsite experience</li><li>Familiar with BFSI, Pharma, Manufacturing</li></ul>
   
 ***Code for curated data science projects***  
+<ul><li>[Regression - statistics interpretation, feature engineering, hyper parameter optimization, explanability](https://github.com/balawillgetyou/2021/blob/main/carPrices.ipynb)</li><li>[Classification - T CNN (temporal convolutional neural network) auto encoder](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb)</li><li>[Time series - ARIMA, statistics interpretation, exogenous variables](https://github.com/balawillgetyou/2021/blob/main/timeSeriesAnalysisRestaurantData.ipynb)</li><li>[Text classification - language model, target task tuning, learning rate optimization](https://github.com/balawillgetyou/2021/blob/main/FastAiPyTorchULMFiTTextClassifierWhoseLine_wStopWordsRemoval_20200701.ipynb)  
+</li></ul>
+  
 
-[Regression - statistics interpretation, feature engineering, hyper parameter optimization, explanability](https://github.com/balawillgetyou/2021/blob/main/carPrices.ipynb)  
+  
 
-[Classification - T CNN (temporal convolutional neural network) auto encoder](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb)  
+ 
 
-[Time series - ARIMA, statistics interpretation, exogenous variables](https://github.com/balawillgetyou/2021/blob/main/timeSeriesAnalysisRestaurantData.ipynb)  
-
-[Text classification - language model, target task tuning, learning rate optimization](https://github.com/balawillgetyou/2021/blob/main/FastAiPyTorchULMFiTTextClassifierWhoseLine_wStopWordsRemoval_20200701.ipynb)  
 
 ***Data science papers published***
 
