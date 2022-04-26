@@ -1,6 +1,6 @@
 ***Bala Kesavan | +91.98408.50411 | scmguru@gmail.com***
 
-<ul><li>Data Science projects since 2014</li><li>10 years US onsite experience</li><li>Familiar with BFSI, Pharma, Manufacturing</li></ul>
+<ul><li>Data Science projects since 2014</li><li>10 years US onsite experience</li><li>Familiar with BFSI, Pharma, Manufacturing verticals</li></ul>
   
 ***Code for curated data science projects***  
 [Regression - statistics interpretation, feature engineering, hyper parameter optimization, explanability](https://github.com/balawillgetyou/2021/blob/main/carPrices.ipynb)  
