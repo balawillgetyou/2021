@@ -11,6 +11,11 @@
   
 [Text classification - language model](https://github.com/balawillgetyou/2021/blob/main/FastAiPyTorchULMFiTTextClassifierWhoseLine_wStopWordsRemoval_20200701.ipynb)  
    
+   
+[***More code***](https://github.com/balawillgetyou/dy)
+  
+    
+      
 ***Data science papers published***  
 [Cognizant white paper](https://www.cognizant.com/whitepapers/optimizing-it-operations-with-natural-language-processing-codex4914.pdf)  
 
@@ -18,7 +23,4 @@
 
 [Anomaly Detection](https://github.com/balawillgetyou/dy/blob/f50f006bf8ed642c6c79800ddd00006ca4315ee0/AnomalyDetectionEdgeDevices20211120.pdf)  
   
-    
-    
-   
-[***More project code***](https://github.com/balawillgetyou/dy)
+
