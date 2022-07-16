@@ -2,7 +2,9 @@
 
 <ul><li>Data Science projects since 2014</li><li>10 years US onsite experience</li><li>Familiar with BFSI, Pharma, Manufacturing verticals</li></ul>
   
-***Code for curated data science projects***  
+***Code samples***  
+[Data structures and algorithms - LeetCode Top 50](https://github.com/balawillgetyou/2021/blob/main/DSA_top50LeetCode.ipynb)  
+  
 [Regression - statistics, explanability](https://github.com/balawillgetyou/2021/blob/main/carPrices.ipynb)  
   
 [Classification - CNN](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb) 
