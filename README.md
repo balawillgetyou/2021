@@ -7,11 +7,14 @@
   
 [Regression - statistics, explanability](https://github.com/balawillgetyou/2021/blob/main/carPrices.ipynb)  
   
-[Classification - CNN](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb) 
-  
 [Time series - ARIMA](https://github.com/balawillgetyou/2021/blob/main/timeSeriesAnalysisRestaurantData.ipynb)  
   
 [Text classification - language model](https://github.com/balawillgetyou/2021/blob/main/FastAiPyTorchULMFiTTextClassifierWhoseLine_wStopWordsRemoval_20200701.ipynb)  
+  
+[Image classification - pretrained VGG Net](https://github.com/balawillgetyou/dy/blob/master/StateFarmDistractedDriverDetection.ipynb)  
+  
+[Classification - CNN](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb)   
+  
    
    
 [***More code***](https://github.com/balawillgetyou/dy)
