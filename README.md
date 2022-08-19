@@ -13,7 +13,7 @@
   
 [Image classification - pretrained VGG Net](https://github.com/balawillgetyou/dy/blob/master/StateFarmDistractedDriverDetection.ipynb)  
   
-[Classification - CNN](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb)   
+[Auto-encoder](https://github.com/balawillgetyou/2021/blob/main/anomalyDetection20210203.ipynb)   
   
    
    
